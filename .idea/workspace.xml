@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb3ae629-5549-44c9-a0dd-e1d088e22e1e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Robot Test Suite" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e7QGhInXeaghFEJ7Ycq1f817MR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestCases/TestSuite1" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python\RobotFramework\TestCases\TestSuite" />
+      <recent name="C:\python\RobotFramework" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\python\RobotFramework\TestCases\TestSuite1" />
+      <recent name="C:\python\RobotFramework\TestCases" />
+      <recent name="C:\python\RobotFramework\TestCases\TestSuite" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RobotFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb3ae629-5549-44c9-a0dd-e1d088e22e1e" name="Default Changelist" comment="" />
+      <created>1593670057470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593670057470</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="22" key="#Notifications" timestamp="1593670734514">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="104" y="22" key="#Notifications/0.0.1024.728@0.0.1024.728" timestamp="1593670734514" />
+    <state x="292" y="105" key="FileChooserDialogImpl" timestamp="1593670572258">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="292" y="105" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1593670572258" />
+    <state width="832" height="179" key="GridCell.Tab.0.bottom" timestamp="1593795759936">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="832" height="179" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1593795759936" />
+    <state width="832" height="179" key="GridCell.Tab.0.center" timestamp="1593795759936">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="832" height="179" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1593795759936" />
+    <state width="832" height="179" key="GridCell.Tab.0.left" timestamp="1593795759936">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="832" height="179" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1593795759936" />
+    <state width="832" height="179" key="GridCell.Tab.0.right" timestamp="1593795759936">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="832" height="179" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1593795759936" />
+    <state x="13" y="6" key="SettingsEditor" timestamp="1593680189444">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="13" y="6" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1593680189444" />
+    <state x="208" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1593923585691">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="208" y="187" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1593923585691" />
+    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593791556958">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1024.728@0.0.1024.728" timestamp="1593791556958" />
+  </component>
+</project>
